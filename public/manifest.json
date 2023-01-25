@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Demo App",
+  "short_name": "OAuth 2.0 Demo App",
+  "name": "OAuth 2.0 Demo App",
   "icons": [
     {
       "src": "favicon.svg",
